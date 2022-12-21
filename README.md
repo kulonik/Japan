@@ -1,3 +1,3 @@
 # Japan
 
-https://github.com/kulonik/Japan.
+https://github.io/kulonik/Japan.
